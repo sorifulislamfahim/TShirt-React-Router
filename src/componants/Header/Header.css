@@ -1,0 +1,13 @@
+.navber{
+    background-color: rgb(187, 203, 204);
+    padding: 20px;
+}
+.navber a{
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.navber a:hover{
+    color: blue;
+}

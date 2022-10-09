@@ -1,0 +1,17 @@
+.tshirt{
+    display: flex;
+    margin: 20px;
+    gap: 10px;
+    width: 100%;
+    justify-content: space-between;
+}
+.tshirt-container{
+    margin: 10px 20px;
+    padding-right: 10px;
+}
+.full-order{
+    border: 2px solid orangered;
+    margin: 30px;
+    background-color: rgb(238, 143, 108);
+    border-radius: 8px;
+}
